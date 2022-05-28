@@ -3,7 +3,7 @@
 
 2022 AP CS A Final Project. Space Invadersesque game writen in Java
 
-![Demo](https://github.com/ParadoxFlame/Planeteer/blob/master/assets/game/demo.png)
+![Demo](https://github.com/ParadoxFlame/Planeteer/blob/master/assets/game/Demo.png)
 ## Authors
 
 - [@ParadoxFlame](https://github.com/ParadoxFlame)
