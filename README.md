@@ -3,7 +3,7 @@
 
 2022 AP CS A Final Project. Space Invadersesque game writen in Java
 
-![Demo](https://github.com/ParadoxFlame/Planeteer/blob/master/assets/game/Demo.png)
+![Demo](https://github.com/ParadoxFlame/Planeteer/blob/master/assets/game/demo.png)
 ## Authors
 
 - [@ParadoxFlame](https://github.com/ParadoxFlame)
@@ -50,6 +50,11 @@ Run the game
 ```
 
 Use `WASD` or `arrow keys` to move. Use `space` to shoot
+
+## Documentation
+
+[Link to Javadocs](https://paradoxflame.github.io/Planeteer)
+
 
 ## License
 
