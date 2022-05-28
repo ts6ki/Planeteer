@@ -1,7 +1,7 @@
 
 # Planeteer
 
-2022 AP CS A Final Project. Space Invadersesque game writen in Java
+2022 AP CS A Final Project. Space Invadersesque game written in Java
 
 ![Demo](https://github.com/ParadoxFlame/Planeteer/blob/master/assets/game/Demo.png)
 ## Authors
