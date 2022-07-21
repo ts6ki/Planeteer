@@ -34,7 +34,7 @@ Requires [Gradle](https://gradle.org/install/)
 Clone the project
 
 ```bash
-  git clone https://github.com/ParadoxFlame/Planeteer
+  git clone https://github.com/Tzukii/Planeteer
 ```
 
 Go to the project directory
@@ -53,12 +53,12 @@ Use `WASD` or `arrow keys` to move. Use `space` to shoot
 
 ## Documentation
 
-[Link to Javadocs](https://paradoxflame.github.io/Planeteer)
+[Link to Javadocs](https://tzukii.github.io/Planeteer)
 
 
 ## License
 
-The project is licensed under the [MIT](https://github.com/ParadoxFlame/Planeteer/blob/master/docs/javadoc/legal/LICENSE) License, meaning you can use it free of charge, without strings attached in commercial and non-commercial projects.
+The project is licensed under the [MIT](https://github.com/Tzukii/Planeteer/blob/master/docs/javadoc/legal/LICENSE) License, meaning you can use it free of charge, without strings attached in commercial and non-commercial projects.
 
 
 
